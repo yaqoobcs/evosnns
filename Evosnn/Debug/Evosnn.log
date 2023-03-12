@@ -1,0 +1,142 @@
+﻿  stdafx.cpp
+  ComputationalUnit.cpp
+  Evosnn.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(51,49): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(53,27): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(53,61): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(55,43): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(64,27): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(64,61): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(66,43): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(82,32): warning C4244: 'argument': conversion from '__int64' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(87,43): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(89,42): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(98,43): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(100,42): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(124,25): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(132,32): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Evosnn.cpp(119,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Evosnn.cpp(417,22): warning C4018: '<': signed/unsigned mismatch
+  Ga.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(51,49): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(53,27): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(53,61): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(55,43): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(64,27): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(64,61): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(66,43): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(82,32): warning C4244: 'argument': conversion from '__int64' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(87,43): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(89,42): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(98,43): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(100,42): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(124,25): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.h(132,32): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(34,51): warning C4244: 'argument': conversion from 'long double' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(45,19): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(59,18): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(61,18): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(77,36): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(80,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(81,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(94,40): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(119,20): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(129,20): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(137,18): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(216,18): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(218,18): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(247,36): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(268,21): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(283,37): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(286,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(287,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(300,41): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(371,33): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(371,37): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(378,33): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(378,37): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(448,27): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(609,20): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(707,17): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Ga.cpp(719,19): warning C4018: '<': signed/unsigned mismatch
+  Individual.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(69,17): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(72,23): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(74,23): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(135,17): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(180,17): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(190,26): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(199,28): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(212,17): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(270,34): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(318,34): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(341,25): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(393,30): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(450,29): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(452,30): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(641,20): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(643,21): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(667,29): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(669,30): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(683,29): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(685,30): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(1035,20): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Individual.cpp(1037,30): warning C4018: '<': signed/unsigned mismatch
+  Neuron.cpp
+  Parameters.cpp
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\Parameters.cpp(53,27): warning C4244: '=': conversion from 'long double' to 'long', possible loss of data
+  typedefs.cpp
+  UtilityFunctions.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(24,15): warning C4244: 'argument': conversion from 'time_t' to 'const UIntType', possible loss of data
+          with
+          [
+              UIntType=boost::uint32_t
+          ]
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(55,17): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(58,11): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(58,30): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(266,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(302,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(322,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(338,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(355,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(391,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(432,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(453,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(473,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(518,37): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(544,53): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(578,53): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(626,55): warning C4018: '<': signed/unsigned mismatch
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(660,34): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(660,45): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(664,38): warning C4244: 'argument': conversion from '__int64' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(666,34): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(668,34): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(672,34): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(672,63): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(672,92): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(672,121): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(672,150): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(674,33): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.3_ABC_3signals\Evosnn\UtilityFunctions.cpp(694,55): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Evosnn.vcxproj -> C:\_Project\Evosnn_v1.3_ABC_3signals\Debug\Evosnn.exe

@@ -1,0 +1,36 @@
+﻿  stdafx.cpp
+  ComputationalUnit.cpp
+  Evosnn.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\_Project\Evosnn_v1.2\Evosnn\Evosnn.cpp(72,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Ga.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\_Project\Evosnn_v1.2\Evosnn\Ga.cpp(24,58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\Ga.cpp(149,40): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\Ga.cpp(149,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\Ga.cpp(150,41): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\Ga.cpp(150,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\Ga.cpp(217,62): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\Ga.cpp(316,36): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\Ga.cpp(355,41): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\Ga.cpp(355,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\Ga.cpp(356,42): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\Ga.cpp(356,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\Ga.cpp(426,58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\Ga.cpp(522,58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Individual.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\_Project\Evosnn_v1.2\Evosnn\Individual.cpp(198,87): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\Individual.cpp(312,88): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+  Neuron.cpp
+  Parameters.cpp
+  typedefs.cpp
+  UtilityFunctions.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\_Project\Evosnn_v1.2\Evosnn\UtilityFunctions.cpp(126,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\UtilityFunctions.cpp(162,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\UtilityFunctions.cpp(225,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\UtilityFunctions.cpp(259,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\_Project\Evosnn_v1.2\Evosnn\UtilityFunctions.cpp(293,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Evosnn.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.
+  

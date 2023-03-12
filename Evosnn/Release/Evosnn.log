@@ -1,0 +1,8 @@
+﻿  Parameters.cpp
+C:\_Project\Evosnn_v1.3_\Evosnn\Parameters.cpp(53,27): warning C4244: '=': conversion from 'long double' to 'long', possible loss of data
+  Generating code
+  3 of 959 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Evosnn.vcxproj -> C:\_Project\Evosnn_v1.3_\Release\Evosnn.exe
