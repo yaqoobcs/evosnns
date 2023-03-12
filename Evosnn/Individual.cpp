@@ -503,9 +503,9 @@ void Individual::makeIndividualWithFixedInputOutputConnections(NeuronType ntype,
 	initializeMatrix(noOfNodesInNetwork);
 
 	if (params.testIndMode)
-	readIndividualMatrix("Topology/Top.dat");
+	readIndividualMatrix("Topology/Top_3.dat");
 	if (!params.testIndMode)
-		readIndividualMatrix("Topology/Top.dat");
+		readIndividualMatrix("Topology/Top_3.dat");
 	
 
 }
