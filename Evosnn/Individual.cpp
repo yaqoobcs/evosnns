@@ -90,15 +90,22 @@ void Individual::readIndividualMatrix(string fname)
 	// read in matrix
 
 		ifstream file(fname);
-		while (std::getline(file, line))
+		if (file.fail()) {
+			cout << "adj_matrix of the network not found, change the path";
+			exit(1);
+		}
+		else
 		{
-			vector<double> row;
-			std::stringstream iss(line);
-			while (iss >> value)
+			while (std::getline(file, line))
 			{
-				row.push_back(value);
+				vector<double> row;
+				std::stringstream iss(line);
+				while (iss >> value)
+				{
+					row.push_back(value);
+				}
+				indMatrix.push_back(row);
 			}
-			indMatrix.push_back(row);
 		}
 
 }
@@ -496,9 +503,9 @@ void Individual::makeIndividualWithFixedInputOutputConnections(NeuronType ntype,
 	initializeMatrix(noOfNodesInNetwork);
 
 	if (params.testIndMode)
-	readIndividualMatrix("C:/_Project/Evosnn_v1.3_/Evosnn/Topology/Top.dat");
+	readIndividualMatrix("Topology/Top.dat");
 	if (!params.testIndMode)
-		readIndividualMatrix("C:/_Project/Evosnn_v1.3_/Evosnn/Topology/Top.dat");
+		readIndividualMatrix("Topology/Top.dat");
 	
 
 }
