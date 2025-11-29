@@ -1,7 +1,5 @@
 **/*.DS_Store
 main.cpp
-outputs*/*
-**/outputs*/*
 .clang-format
 .idea/**
 .idea
