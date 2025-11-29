@@ -1,0 +1,14 @@
+===-===-===-
+6 Signal test
+Max. total corr for each pattern = 10
+Identified corr. pattern = 1
+Incorrectly identified  = 0
+FDR = 0
+Precision = 1
+
+TP:
+FABCDEF 1	
+FP:
+
+Total correct patterns in the sequence:0
+

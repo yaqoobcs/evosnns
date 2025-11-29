@@ -1,0 +1,56 @@
+===-===-===-
+6 Signal test
+Max. total corr for each pattern = 10
+Identified corr. pattern = 0
+Incorrectly identified  = 1
+FDR = 1
+Precision = 0
+
+TP:
+
+FP:
+FABDEFD 1	
+Total correct patterns in the sequence:0
+
+===-===-===-
+6 Signal test
+Max. total corr for each pattern = 10
+Identified corr. pattern = 0
+Incorrectly identified  = 0
+FDR = nan
+Precision = nan
+
+TP:
+
+FP:
+
+Total correct patterns in the sequence:0
+
+===-===-===-
+7 Signal test
+Max. total corr for each pattern = 10
+Identified corr. pattern = 0
+Incorrectly identified  = 4
+FDR = 1
+Precision = 0
+
+TP:
+
+FP:
+FABDEFBA 1	FCCABDEF 1	FEEABDEF 1	FEFABDEF 1	
+Total correct patterns in the sequence:0
+
+===-===-===-
+8 Signal test
+Max. total corr for each pattern = 10
+Identified corr. pattern = 0
+Incorrectly identified  = 26
+FDR = 1
+Precision = 0
+
+TP:
+
+FP:
+FABDEFACC 1	FABDEFCBD 1	FABDEFDAD 1	FABDEFEBE 1	FABDEFEDF 1	FABEABDEF 1	FACABDEFA 1	FACABDEFC 1	FACEABDEF 1	FADDCBDEF 1	FAEABEDEF 1	FAECBEDEF 1	FAEECBDEF 1	FAFABDEFB 1	FAFBABDEF 1	FBABDEFAD 1	FBCABDEFB 1	FBDDABDEF 1	FBECABDEF 1	FCABDEFAC 1	FCADABDEF 1	FCEABDEFA 1	FCFBABDEF 1	FDAEDBDEF 1	FDFABDEFB 1	FEABDEFCD 1	
+Total correct patterns in the sequence:0
+

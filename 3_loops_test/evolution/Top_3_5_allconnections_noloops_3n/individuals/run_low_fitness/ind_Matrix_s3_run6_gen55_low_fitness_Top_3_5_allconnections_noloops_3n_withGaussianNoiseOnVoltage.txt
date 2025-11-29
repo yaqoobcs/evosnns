@@ -1,0 +1,19 @@
+Adj. matrix of the network
+0          0          0          11.0097   1.31824    -0.634287    0          
+0          0          0          -12.6012   0.511178    0.492553    0          
+0          0          0          0.616518    0.185995    4.57309    0          
+0          0          0          0          -4.83855    -0.35176    -20.6425   
+0          0          0          1.58767    0          0.472519    -1.17783    
+0          0          0          -0.881922    12.5786   0          2.21022    
+0          0          0          0          0          0          0          
+run:6	gen:56	fitness = 0.0524127	Total corr = 57	identified corr = 55	Responded to incorrect patterns = 1	FDR = 0.0178571	Precision = 0.982143
+Total correct patterns in the sequence:57
+
+Confusion matrix:
+True positives:55
+True negatives:9942
+False positives:1
+False negatives:2
+Sum of all:10000
+___________________________________________________________________________________________________________
+
