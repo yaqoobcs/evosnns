@@ -1,0 +1,13 @@
+**/*.DS_Store
+main.cpp
+outputs*/*
+**/outputs*/*
+.clang-format
+.idea/**
+.idea
+cmake-build-debug
+.idea
+python/__pycache__
+uv.lock
+cmake-build-release
+Evosnn2
