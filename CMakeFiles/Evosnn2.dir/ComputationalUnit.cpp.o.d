@@ -1,7 +1,7 @@
 CMakeFiles/Evosnn2.dir/ComputationalUnit.cpp.o: \
-  /Users/my19aac/Desktop/Evosnn2/ComputationalUnit.cpp \
-  /Users/my19aac/Desktop/Evosnn2/ComputationalUnit.h \
-  /Users/my19aac/Desktop/Evosnn2/Parameters.h \
+  /Users/my19aac/Desktop/evosnns/ComputationalUnit.cpp \
+  /Users/my19aac/Desktop/evosnns/ComputationalUnit.h \
+  /Users/my19aac/Desktop/evosnns/Parameters.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/string \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/max.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/comp.h \
@@ -812,4 +812,4 @@ CMakeFiles/Evosnn2.dir/ComputationalUnit.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/byteswap.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/endian.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/has_single_bit.h \
-  /Users/my19aac/Desktop/Evosnn2/typedefs.h
+  /Users/my19aac/Desktop/evosnns/typedefs.h

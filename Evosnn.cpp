@@ -114,7 +114,7 @@ int main(int argc, char *argv[]) {
     //  std::string file_name = "Top_7_3_run1_fixed_learning";
     // std::string file_name = "Top_6_5_clipped_2pos_2neg";
     //std::string file_name = "matrix10_Top10_fitting_polynomial";
-     std::string file_name = "Top_3_5_splitloops";
+     std::string file_name = "Top_3_5";
     //std::string file_name = "";
     //         "matrix9_Top_9_1_ordering_size9_fitting_polynomial_N2_branch_zeroed";
 

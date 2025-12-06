@@ -1,6 +1,6 @@
 CMakeFiles/Evosnn2.dir/Neuron.cpp.o: \
-  /Users/my19aac/Desktop/Evosnn2/Neuron.cpp \
-  /Users/my19aac/Desktop/Evosnn2/Neuron.h \
+  /Users/my19aac/Desktop/evosnns/Neuron.cpp \
+  /Users/my19aac/Desktop/evosnns/Neuron.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/copy.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/copy_move_common.h \
@@ -903,6 +903,6 @@ CMakeFiles/Evosnn2.dir/Neuron.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdarg \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/temp_value.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__split_buffer \
-  /Users/my19aac/Desktop/Evosnn2/ComputationalUnit.h \
-  /Users/my19aac/Desktop/Evosnn2/Parameters.h \
-  /Users/my19aac/Desktop/Evosnn2/typedefs.h
+  /Users/my19aac/Desktop/evosnns/ComputationalUnit.h \
+  /Users/my19aac/Desktop/evosnns/Parameters.h \
+  /Users/my19aac/Desktop/evosnns/typedefs.h

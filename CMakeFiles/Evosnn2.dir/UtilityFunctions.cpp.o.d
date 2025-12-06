@@ -1,6 +1,6 @@
 CMakeFiles/Evosnn2.dir/UtilityFunctions.cpp.o: \
-  /Users/my19aac/Desktop/Evosnn2/UtilityFunctions.cpp \
-  /Users/my19aac/Desktop/Evosnn2/UtilityFunctions.h \
+  /Users/my19aac/Desktop/evosnns/UtilityFunctions.cpp \
+  /Users/my19aac/Desktop/evosnns/UtilityFunctions.h \
   /opt/homebrew/include/boost/random.hpp \
   /opt/homebrew/include/boost/random/additive_combine.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/istream \
@@ -1392,5 +1392,5 @@ CMakeFiles/Evosnn2.dir/UtilityFunctions.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/seed_seq.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/student_t_distribution.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/weibull_distribution.h \
-  /Users/my19aac/Desktop/Evosnn2/Parameters.h \
-  /Users/my19aac/Desktop/Evosnn2/typedefs.h
+  /Users/my19aac/Desktop/evosnns/Parameters.h \
+  /Users/my19aac/Desktop/evosnns/typedefs.h

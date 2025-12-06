@@ -1,3 +1,3 @@
-/Users/my19aac/Desktop/Evosnn2/CMakeFiles/Evosnn2.dir
-/Users/my19aac/Desktop/Evosnn2/CMakeFiles/edit_cache.dir
-/Users/my19aac/Desktop/Evosnn2/CMakeFiles/rebuild_cache.dir
+/Users/my19aac/Desktop/evosnns/CMakeFiles/Evosnn2.dir
+/Users/my19aac/Desktop/evosnns/CMakeFiles/edit_cache.dir
+/Users/my19aac/Desktop/evosnns/CMakeFiles/rebuild_cache.dir

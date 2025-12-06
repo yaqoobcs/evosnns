@@ -1,0 +1,24 @@
+Adj. matrix of the network
+0          0          0          10.108   0          0          0          0          0          
+0          0          0          -12.2245   0.735404    0          0          0          0          
+0          0          0          0          11.3058   6.26224    0          0          0          
+0          0          0          7.87609    -5.27086    -1.6424    -21.359   0          0          
+0          0          0          1.21223    6.17023    0          0          0          0          
+0          0          0          0          11.7832   0          2.22892    0          0          
+0          0          0          0          0          0          0          0          0          
+1.24029e-309    4.94066e-323    0          0          0          0          0          0          0          
+1.24029e-309    4.94066e-324    0          0          0          0          0          0          0          
+
+
+Performance of the nw on a random sequence of length 10000 signals
+run:0	gen:0	fitness = 1	Total corr = 412	identified corr = 0	Responded to incorrect patterns = 0	FDR = nan	Precision = nan
+Total correct patterns in the sequence:412
+
+Confusion matrix:
+True positives:0
+True negatives:9588
+False positives:0
+False negatives:412
+Sum of all:10000
+___________________________________________________________________________________________________________
+

@@ -1,3 +1,3 @@
 CMakeFiles/Evosnn2.dir/typedefs.cpp.o: \
-  /Users/my19aac/Desktop/Evosnn2/typedefs.cpp \
-  /Users/my19aac/Desktop/Evosnn2/typedefs.h
+  /Users/my19aac/Desktop/evosnns/typedefs.cpp \
+  /Users/my19aac/Desktop/evosnns/typedefs.h

@@ -1,6 +1,6 @@
 CMakeFiles/Evosnn2.dir/Individual.cpp.o: \
-  /Users/my19aac/Desktop/Evosnn2/Individual.cpp \
-  /Users/my19aac/Desktop/Evosnn2/Individual.h \
+  /Users/my19aac/Desktop/evosnns/Individual.cpp \
+  /Users/my19aac/Desktop/evosnns/Individual.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/max.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/comp.h \
@@ -978,11 +978,11 @@ CMakeFiles/Evosnn2.dir/Individual.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/u8path.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/sstream \
-  /Users/my19aac/Desktop/Evosnn2/Neuron.h \
-  /Users/my19aac/Desktop/Evosnn2/ComputationalUnit.h \
-  /Users/my19aac/Desktop/Evosnn2/Parameters.h \
-  /Users/my19aac/Desktop/Evosnn2/typedefs.h \
-  /Users/my19aac/Desktop/Evosnn2/UtilityFunctions.h \
+  /Users/my19aac/Desktop/evosnns/Neuron.h \
+  /Users/my19aac/Desktop/evosnns/ComputationalUnit.h \
+  /Users/my19aac/Desktop/evosnns/Parameters.h \
+  /Users/my19aac/Desktop/evosnns/typedefs.h \
+  /Users/my19aac/Desktop/evosnns/UtilityFunctions.h \
   /opt/homebrew/include/boost/random.hpp \
   /opt/homebrew/include/boost/random/additive_combine.hpp \
   /opt/homebrew/include/boost/config.hpp \
